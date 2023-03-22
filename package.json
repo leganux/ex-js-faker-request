@@ -1,0 +1,28 @@
+{
+  "name": "ex-js-faker-request",
+  "version": "1.0.0",
+  "description": "A simple way to emulate request in ExpressJS project to get data from inner controller whitout calling rest only internal",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/leganux/ex-js-faker-request.git"
+  },
+  "keywords": [
+    "leganux",
+    "faker",
+    "inner",
+    "request",
+    "expressjs",
+    "call",
+    "response"
+  ],
+  "author": "leganux.net",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/leganux/ex-js-faker-request/issues"
+  },
+  "homepage": "https://github.com/leganux/ex-js-faker-request#readme"
+}
