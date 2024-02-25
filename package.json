@@ -1,6 +1,6 @@
 {
   "name": "ex-js-faker-request",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A simple way to emulate request in ExpressJS project to get data from inner controller whitout calling rest only internal",
   "main": "index.js",
   "scripts": {

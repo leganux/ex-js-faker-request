@@ -18,6 +18,8 @@ module.exports = {
         this.user = originalReq.user
         this.params = originalReq.params
         this.query = originalReq.query
+        this.headers = originalReq.headers
+        this.cookies = originalReq.cookies
     },
     /** Creamos el objeto de la funcion de retorno falsa **/
     fakeResponseFunction: function () {
